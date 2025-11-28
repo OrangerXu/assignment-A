@@ -1,0 +1,604 @@
+ Application application_1764338331311_0001
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:01:52 -0800 2025
+Launched: 	Fri Nov 28 06:01:53 -0800 2025
+Finished: 	Fri Nov 28 06:02:36 -0800 2025
+Elapsed: 	44sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	289571 MB-seconds, 230 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0001_000001	Fri Nov 28 06:01:52 -0800 2025	http://hadoop132:8042	Logs	0	0
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:02:44 -0800 2025
+Launched: 	Fri Nov 28 06:02:44 -0800 2025
+Finished: 	Fri Nov 28 06:03:20 -0800 2025
+Elapsed: 	36sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	163138 MB-seconds, 113 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0002_000001	Fri Nov 28 06:02:44 -0800 2025	http://hadoop132:8042	Logs	0	0
+ Application application_1764338331311_0003
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:03:27 -0800 2025
+Launched: 	Fri Nov 28 06:03:28 -0800 2025
+Finished: 	Fri Nov 28 06:04:03 -0800 2025
+Elapsed: 	35sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	161566 MB-seconds, 113 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0003_000001	Fri Nov 28 06:03:27 -0800 2025	http://hadoop132:8042	Logs	0	0
+ Application application_1764338331311_0004
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:04:11 -0800 2025
+Launched: 	Fri Nov 28 06:04:11 -0800 2025
+Finished: 	Fri Nov 28 06:04:47 -0800 2025
+Elapsed: 	36sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	169888 MB-seconds, 120 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0004_000001	Fri Nov 28 06:04:11 -0800 2025	http://hadoop130:8042	Logs	0	0
+ Application application_1764338331311_0005
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:08:43 -0800 2025
+Launched: 	Fri Nov 28 06:08:43 -0800 2025
+Finished: 	Fri Nov 28 06:09:08 -0800 2025
+Elapsed: 	25sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	151056 MB-seconds, 112 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0005_000001	Fri Nov 28 06:08:43 -0800 2025	http://hadoop132:8042	Logs	0	0
+ Application application_1764338331311_0006
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:09:17 -0800 2025
+Launched: 	Fri Nov 28 06:09:17 -0800 2025
+Finished: 	Fri Nov 28 06:09:42 -0800 2025
+Elapsed: 	25sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	103504 MB-seconds, 66 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0006_000001	Fri Nov 28 06:09:17 -0800 2025	http://hadoop131:8042	Logs	0	0
+ Application application_1764338331311_0007
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:09:50 -0800 2025
+Launched: 	Fri Nov 28 06:09:50 -0800 2025
+Finished: 	Fri Nov 28 06:10:18 -0800 2025
+Elapsed: 	27sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	109653 MB-seconds, 71 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0007_000001	Fri Nov 28 06:09:50 -0800 2025	http://hadoop132:8042	Logs	0	0
+ Application application_1764338331311_0008
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:10:25 -0800 2025
+Launched: 	Fri Nov 28 06:10:25 -0800 2025
+Finished: 	Fri Nov 28 06:10:52 -0800 2025
+Elapsed: 	26sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	110432 MB-seconds, 72 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0008_000001	Fri Nov 28 06:10:25 -0800 2025	http://hadoop130:8042	Logs	0	0
+ Application application_1764338331311_0009
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:12:22 -0800 2025
+Launched: 	Fri Nov 28 06:12:22 -0800 2025
+Finished: 	Fri Nov 28 06:12:42 -0800 2025
+Elapsed: 	20sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	103885 MB-seconds, 71 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0009_000001	Fri Nov 28 06:12:22 -0800 2025	http://hadoop131:8042	Logs	0	0
+ Application application_1764338331311_0010
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:12:52 -0800 2025
+Launched: 	Fri Nov 28 06:12:52 -0800 2025
+Finished: 	Fri Nov 28 06:13:16 -0800 2025
+Elapsed: 	23sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	92359 MB-seconds, 58 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0010_000001	Fri Nov 28 06:12:52 -0800 2025	http://hadoop129:8042	Logs	0	0
+ Application application_1764338331311_0011
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:13:26 -0800 2025
+Launched: 	Fri Nov 28 06:13:26 -0800 2025
+Finished: 	Fri Nov 28 06:13:48 -0800 2025
+Elapsed: 	22sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	89694 MB-seconds, 56 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0011_000001	Fri Nov 28 06:13:26 -0800 2025	http://hadoop131:8042	Logs	0	0
+ Application application_1764338331311_0012
+Cluster
+
+    About
+    Nodes
+    Node Labels
+    Applications
+        NEW
+        NEW_SAVING
+        SUBMITTED
+        ACCEPTED
+        RUNNING
+        FINISHED
+        FAILED
+        KILLED 
+    Scheduler 
+
+Tools
+	
+Application Overview
+User: 	root
+Name: 	word count
+Application Type: 	MAPREDUCE
+Application Tags: 	
+Application Priority: 	0 (Higher Integer value indicates higher priority)
+YarnApplicationState: 	FINISHED
+Queue: 	default
+FinalStatus Reported by AM: 	SUCCEEDED
+Started: 	Fri Nov 28 06:13:58 -0800 2025
+Launched: 	Fri Nov 28 06:13:59 -0800 2025
+Finished: 	Fri Nov 28 06:14:23 -0800 2025
+Elapsed: 	24sec
+Tracking URL: 	History
+Log Aggregation Status: 	DISABLED
+Application Timeout (Remaining Time): 	Unlimited
+Diagnostics: 	
+Unmanaged Application: 	false
+Application Node Label expression: 	<Not set>
+AM container Node Label expression: 	<DEFAULT_PARTITION>
+Application Metrics
+Total Resource Preempted: 	<memory:0, vCores:0>
+Total Number of Non-AM Containers Preempted: 	0
+Total Number of AM Containers Preempted: 	0
+Resource Preempted from Current Attempt: 	<memory:0, vCores:0>
+Number of Non-AM Containers Preempted from Current Attempt: 	0
+Aggregate Resource Allocation: 	93261 MB-seconds, 57 vcore-seconds
+Aggregate Preempted Resource Allocation: 	0 MB-seconds, 0 vcore-seconds
+Show
+entries
+Search:
+Attempt ID 	Started 	Node 	Logs 	Nodes blacklisted by the app 	Nodes blacklisted by the system
+appattempt_1764338331311_0012_000001	Fri Nov 28 06:13:58 -0800 2025	http://hadoop131:8042	Logs	0	0

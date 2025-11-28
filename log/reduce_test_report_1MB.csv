@@ -1,0 +1,5 @@
+DataSize,Strategy,SlowStart,TotalSeconds,Status
+1MB,Immediate,0.0,27,SUCCEEDED
+1MB,Default(5%),0.05,31,SUCCEEDED
+1MB,HalfMapDone,0.5,29,SUCCEEDED
+1MB,AllMapDone,1.0,32,SUCCEEDED
