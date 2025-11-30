@@ -188,7 +188,7 @@
 #### 3.4.2 性能对比分析
 **图1：CPU和内存使用情况对比图**
 
-![cpu_memory_usage](screenshots\cpu_memory_usage.png)
+![cpu_memory_usage](screenshots/cpu_memory_usage.png)
 
 **关键发现**：
 1. **10M数据规模最优策略**：
@@ -381,7 +381,7 @@ pdf中图像路径为：
 
 #### 4.4.3 资源监控图表分析 (基于dstat数据)
 dstat数据在以下目录：
-- [log\监控日志_dstat](log\监控日志_dstat)
+- [log/监控日志_dstat](log/监控日志_dstat)
 
 通过分析`dstat`日志，我们观察到：
 - **串行组 (1.0)**：资源曲线呈现明显的**“双峰”**形态——先是CPU峰值（Map），CPU归零后才出现Network/Disk峰值（Shuffle）。中间存在明显的时间断档。
