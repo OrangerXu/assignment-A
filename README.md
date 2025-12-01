@@ -115,11 +115,11 @@
 3. **执行实验**：依次运行三个脚本，每个脚本测试四种Reduce启动策略（`0.0`, `0.05`, `0.5`, `1.0`）
 4. **验证与记录**：所有作业均成功完成，运行结果耗时截图如下
    - **1MB实验耗时**：
-   ![result_1MB](screenshots/result_1MB.png)
+   ![screenshots/result_1MB](screenshots/result_1MB.png)
    - **10MB实验耗时**：
-   ![result_10MB](screenshots/result_10MB.png)
+   ![screenshots/result_10MB](screenshots/result_10MB.png)
    - **30MB实验耗时**：
-   ![result_30MB](screenshots/result_30MB.png)
+   ![screenshots/result_30MB](screenshots/result_30MB.png)
    
 ### 3.4实验结果分析
 #### 3.4.1 不同大小数据集的最佳策略
